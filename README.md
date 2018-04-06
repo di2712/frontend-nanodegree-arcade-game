@@ -17,7 +17,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 - Save the ZIP file in desired location on your computer
 - Unzip/extract all files
 - Locate the **index.html** file
-  - Right-click the file and choose **Open with..** and select application to play game.
+  - Right-click the index file and choose **Open with..** and select application to play game.
 
 Select your player of choice to begin.
 
