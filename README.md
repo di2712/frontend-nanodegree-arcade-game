@@ -14,7 +14,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 - Download the game's ZIP file [Click here](https://github.com/di2712/frontend-nanodegree-arcade-game)
   - CLick the **Clone or download** green button to right of files
   - Then select **Download ZIP**
-- Save the ZIP file to your computer or download folder to locate zip file
+- Save the ZIP file to your computer or go to downloads folder on your PC to locate zip file
 - Right click to Unzip/extract all files
 - Locate the **index.html** file
   - Right-click the index file and choose **Open with..** and select application to play game.
