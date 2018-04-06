@@ -4,10 +4,33 @@
     <meta charset="UTF-8">
     <title>Effective JavaScript: Frogger</title>
     <link rel="stylesheet" href="css/style.css">
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
+
+  <!-- This section displays lives and score -->
+    <div class="dashboard">
+        <h2 id="score"></h2><img class="icon" src="images/Gem Green.png" alt="Gem">
+        <h2 id="lives"></h2><img class="icon" src="images/Heart.png" alt="Heart">
+    </div>
     <script src="js/resources.js"></script>
-    <script src="js/app.js"></script>
     <script src="js/engine.js"></script>
+    <script src="js/app.js"></script>
+
+  <!-- This section displays the charater selection part class when choosing a character -->
+    <div id="charaterSection" class="modal">
+        <div class="modal-content">
+            <h2 class="charaterSectionTitle">Choose Wisely!</h2>
+            <h3 class="charaterSectionTitleInstructions">Click on the charater you would like to play with</h3>
+            <img  id="boy" src="images/char-boy.png" alt="Boy">
+            <img  id="pinkGirl" src="images/char-pink-girl.png" alt="Pink Girl"><br>
+            <img  id="catGirl" src="images/char-cat-girl.png" alt="Cat Girl">
+            <img  id="hornGirl" src="images/char-horn-girl.png" alt="Horn Girl"><br>
+            <img  id="princessGirl" src="images/char-princess-girl.png" alt="Princess Girl">
+            <h3 class="charaterSectionTitleInstructions">May the odds forever be in your favor...</h3>
+        </div>
+    </div>
 </body>
 </html>
