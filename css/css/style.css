@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background-color: grey !important;
+}
+/* number of lives */
+#lives {
+    display: inline-block;
+    color: red;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+/*score */
+#score {
+    display: inline-block;
+    color: white;
+    margin-top: 20px;
+}
+
+/* icons in score pic */
+.icon {
+  height: 6%;
+  width: 6%;
+  margin-left: 20px;
+}
+
+/*top part with lives and score */
+.dashboard {
+    margin-bottom: 10px;
+    background: linear-gradient(blue, orange);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+/* chaarater title section */
+.charaterSectionTitle {
+    color: white;
+    background-color: blue;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/*rest of charter section */
+.charaterSectionTitleInstructions {
+  color: white;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+/*pop up charater section at start and reset */
+.model {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+
+/* Character Selection Box */
+.modal-content {
+    background: linear-gradient(orange, blue) !important;
+    height: 95%;
+    width: 95%;
+    margin: 5% auto;
+}
