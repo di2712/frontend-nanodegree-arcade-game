@@ -12,7 +12,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 ## How to Start Game
 
 - Download the game's ZIP file [Click here](https://github.com/di2712/frontend-nanodegree-arcade-game)
-  - CLick **Download**
+  - CLick the **Clone or download** green button to right of files
   - Then select **Download ZIP**
 - Save the ZIP file in desired location on your computer
 - Unzip/extract all files
