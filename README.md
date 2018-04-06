@@ -16,11 +16,9 @@ For detailed instructions on how to get started, check out this [guide](https://
 # Udacity Project - Frogger: Arcade Game by David J. Iman
 
 
-**[Download file](https://github.com/di2712/frontend-nanodegree-arcade-game)**
-
-
 ## How to Start Game
 
+**[Download file](https://github.com/di2712/frontend-nanodegree-arcade-game)**
 Simply open index.html by high-lightening it, right clicking, and selecting application to open with.
 Select your player of choice to begin.
 
