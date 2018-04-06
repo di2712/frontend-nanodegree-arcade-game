@@ -41,9 +41,9 @@ Get the player across to the water to earn points, avoiding contact with the bug
 You will start with 5 Hearts, collect Hearts from point bonuses to play longer.
 
 Bonuses:'Chances to Double UP...'
-5 points earns you a 5 points plus 1 Heart bonus.
-10 points earns you a 10 points plus 1 Heart bonus.
-20 points earns you a 20 points plus 1 Heart bonus.
+- 5 points earns you a 5 points plus 1 Heart bonus.
+- 10 points earns you a 10 points plus 1 Heart bonus.
+- 20 points earns you a 20 points plus 1 Heart bonus.
 
 Get to 50 points and YOU WIN...!!
 
